@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(82, 75, 75);
+    background-image: url(IMG_5530.JPG),url(IMG_5529.JPG);
+    background-size: cover, cover;
+    background-position: left top, right top;
+    background-repeat: no-repeat, no-repeat;
+
+}
+.countdown {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+#timer {
+    font-size: 2cm;
+    padding: 20px;
+    background-color: darkorange;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(red, green, blue, alpha);
+}
+h1{
+    color: darkorange;
+}
